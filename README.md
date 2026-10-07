@@ -8,6 +8,15 @@ My focus is on reliable systems, secure foundations, and tools that people can u
 
 [LinkedIn](https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%EC%95%88-4b3723252/) · [Also on GitHub: @jeongsuAn](https://github.com/jeongsuAn)
 
+## LINE AI Friends
+
+An AI character conversation service inside LINE, where users can chat with characters or create their own.
+
+[![Watch the official LINE AI Friends introduction](https://i.ytimg.com/vi/_UQK04ez80Y/hqdefault.jpg)](https://www.youtube.com/watch?v=_UQK04ez80Y)
+
+[▶ Official introduction](https://www.youtube.com/watch?v=_UQK04ez80Y) — LINE Japan, April 15, 2026  
+[Official launch announcement](https://www.lycorp.co.jp/ja/news/release/018455/) — LY Corporation, August 21, 2025
+
 ## What I work on
 
 - **Agentic systems & MCP** — AI agent platforms, tool orchestration, and Slack MCP integrations.
