@@ -2,6 +2,7 @@
 
 **AI Platform Engineer at LINE Plus · Seoul, South Korea**
 
+I develop **LINE AI Friends** at LINE Plus.
 I build AI agent platforms and MCP integrations, from architecture to production operations.
 My focus is on reliable systems, secure foundations, and tools that people can use in their everyday work.
 
