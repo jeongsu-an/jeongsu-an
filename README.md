@@ -16,6 +16,16 @@ My focus is on reliable systems, secure foundations, and tools that people can u
 
 ## Selected talks
 
+### Tech-Verse 2026
+
+**2026년은 하네스의 해: 무한 루프에 빠지는 AI 코딩 에이전트를 구원할 하네스 엔지니어링 전략**
+
+Co-presented with 이치훈 (LINE Plus). Practical harness engineering for long-running AI coding agents: state management, tool design, and automated verification loops.
+
+[![Watch the Tech-Verse 2026 talk on YouTube](https://i.ytimg.com/vi/JXHuNTs0UAk/maxresdefault.jpg)](https://www.youtube.com/watch?v=JXHuNTs0UAk)
+
+[▶ Watch recording](https://www.youtube.com/watch?v=JXHuNTs0UAk) · [Session](https://tech-verse.lycorp.co.jp/2026/ko/sessions/41.html) · [Slides](https://speakerdeck.com/lycorptech_jp/2026-is-the-year-of-the-harness-harness-engineering-strategies-to-save-ai-coding-agents-from-infinite-loops)
+
 ### Tech-Verse 2025
 
 [Implementing MCP Server for Next-Gen AI: Lessons Learned and Future Directions](https://tech-verse.lycorp.co.jp/2025/ko/session/1121/)
